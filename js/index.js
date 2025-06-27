@@ -1,5 +1,5 @@
 const title = document.querySelector(".title");
-const text = `FLOWERS FOR YERRR`.split("");
+const text = `FOR YERRR`.split("");
 
 // Create container for better responsive layout
 title.style.display = "flex";
